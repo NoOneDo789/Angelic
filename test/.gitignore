@@ -1,0 +1,11 @@
+# CompCert-generated files
+*.s
+*.sdump
+*.parsed.c
+*.compcert.c
+*.light.c
+*.compcert
+*.gcc
+*.ssa.[0-9]
+*.rtl.[0-9]
+*.rtl.norm
